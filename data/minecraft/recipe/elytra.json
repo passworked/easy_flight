@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "C": {
+      "item": "minecraft:popped_chorus_fruit"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "B": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "pattern": [
+    "DBD",
+    "PCP",
+    "B B"
+  ],
+  "result": {
+    "id": "minecraft:elytra",
+    "components": {
+      "max_damage":108,
+      "custom_name":"{\"text\":\"人工合成的鞘翅\",\"color\":\"white\",\"italic\":false}",
+      "rarity":"common"
+    }
+  }
+}

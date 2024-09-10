@@ -1,0 +1,44 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    }
+  ],
+  "result": {
+    "components": {
+      "enchantment_glint_override": true,
+      "custom_name":"{\"text\":\"超超超超超OP的烟花\",\"color\":\"dark_aqua\",\"italic\":true}",
+      "minecraft:fireworks": {
+        "flight_duration": 127
+      }
+    },
+    "count": 1,
+    "id": "minecraft:firework_rocket"
+  }
+}
